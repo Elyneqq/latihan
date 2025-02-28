@@ -1,0 +1,77 @@
+img {
+    padding-left: 15px;
+    height: 15px;
+}
+.jamur{
+    padding-top: 30px;
+    padding-left: 76px;
+    height: 150px;
+}
+a{
+    color: #B2422D;
+}
+.apaya {
+    display: grid;
+    grid-template-columns: [cline1 ]150px [cline2]auto [cline3] 150px [cline4];
+    text-align: center;
+    color: #B2422D;
+}  
+.email {
+ display: grid;
+ grid-template-columns: [cline1 ]70px [cline2]auto [cline3] 70px [cline4];
+ grid-template-rows:[rline1 ] 500px [rline2]auto [rline3];
+}
+.dahlah {
+    background-color: #B2422D;
+    justify-items: center;
+    border: 1px solid brown;
+    border-radius: 20px;
+    padding: 10px;
+}
+.tengah {
+    display: flex;
+    flex-direction: column;
+    padding-left: 35px;
+    padding-right: 35px;
+
+}
+.tengah1 {
+    display: flex;
+    flex-direction: column;
+    padding-left: 60px;
+    padding-right: 60px;
+
+}
+.font {
+    color: white ;;
+    font-weight: bold;
+}
+.font1 {
+    color: white ;
+    font-weight: bold;
+}
+.bulet {
+    border: 2px ;
+    border-radius: 20px;
+    height: 30px;
+    background-color: #C97763;
+    color: white;
+    font-weight: bold;
+    font-family: 'Times New Roman';
+    font-size: 15px;
+}
+.a3 {
+    background-color: white;
+    border : 2px;
+    border-radius: 20px;
+    height: 40px;
+    color: #B2422D;
+    font-weight: bold;
+}
+.uia{
+    padding-top: 5px;
+    color: aliceblue;
+}
+body {
+    background-color: antiquewhite;
+}
